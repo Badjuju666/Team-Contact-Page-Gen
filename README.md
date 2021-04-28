@@ -22,11 +22,12 @@
 
 ## Installation
 #### **- Run**
-          $ npm i
+          $ npm i inquirer
     
 ## Usage
 #### **- Run**
           $ node index.js
+**- Follow each prompt for the Manager, then select wheather you need an Intern or Engineer. When satisfied simply select generate page.**
 
 ## Example 
 

@@ -19,5 +19,5 @@ test("email", () => {
 })
 
 test("return role", () => { 
-    expect(Employee.role).toBe();
+    expect(Emp.role).toBe();
 })
